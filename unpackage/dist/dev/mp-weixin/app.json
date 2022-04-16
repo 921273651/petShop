@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/cart/cart",
+    "pages/cate/cate",
+    "pages/my/my"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "爱宠商城",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#C00000",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "/static/images/home.png",
+        "selectedIconPath": "/static/images/_home.png"
+      },
+      {
+        "pagePath": "pages/cate/cate",
+        "text": "分类",
+        "iconPath": "/static/images/order.png",
+        "selectedIconPath": "/static/images/_order.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "订单",
+        "iconPath": "/static/images/shop-car.png",
+        "selectedIconPath": "/static/images/_shop-car.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "/static/images/mine.png",
+        "selectedIconPath": "/static/images/_mine.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
