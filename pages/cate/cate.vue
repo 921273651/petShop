@@ -1,6 +1,6 @@
 <template>
   <view>
-    
+    <!-- 楼层区域 -->
   </view>
 </template>
 

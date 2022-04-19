@@ -1,6 +1,6 @@
 <template>
   <view>
-    我的主页
+    Goods_list
   </view>
 </template>
 
